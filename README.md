@@ -25,8 +25,11 @@ using the <strong><a href="https://www.chaijs.com/">Chai Assertion Library</a></
 <img align="center" width=18% height=18% src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt=""><br>
     </p>
 
-The API tested: courtesy of <strong><a href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton">Daniel Avellaneda</a></strong>.</p>
-<p class="has-line-data" data-line-start="21" data-line-end="22">REST methods used:</p>
+The <strong><a href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton">API</a></strong> tested: courtesy of <strong><a href="https://github.com/davellanedam">Daniel Avellaneda</a></strong>.</p> 
+
+By clicking <strong><a href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton">here</a></strong> you will find more info about the requirements needed for running this API on your machine.</p> 
+
+<p class="has-line-data" data-line-start="21" data-line-end="22">REST/CRUD methods used:</p>
 <ul>
 <li class="has-line-data" data-line-start="22" data-line-end="23">GET</li>
 <li class="has-line-data" data-line-start="23" data-line-end="24">POST</li>
