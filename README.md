@@ -1,7 +1,7 @@
-<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="RestAPI_testing_for_IT_Bootcamp_0"></a>RestAPI testing for IT Bootcamp</h1>
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="REST_API_testing_for_IT_Bootcamp_0"></a>RestAPI testing for IT Bootcamp</h1>
 <hr>
 <h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="Hi_there_2"></a>Hi there!</h5>
-<h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="This_is_my_first_little_RestAPI_testing_projecthttpsdocumentergetpostmancomview11984700TVeqbmW2_3"></a>This is my <a href="https://documenter.getpostman.com/view/11984700/TVeqbmW2"><strong>first <em>little</em> RestAPI testing project</strong></a>.</h5>
+<h3 class="code-line" data-line-start=3 data-line-end=4 ><a id="This_is_my_first_little_REST_API_testing_projecthttpsdocumentergetpostmancomview11984700TVeqbmW2_3"></a>This is my <a href="https://documenter.getpostman.com/view/11984700/TVeqbmW2"><strong>first <em>little</em> RestAPI testing project</strong></a>.</h5>
 <hr>
 <p class="has-line-data" data-line-start="6" data-line-end="7">This project contains tests divided into four logical groups:</p>
 <ol>
@@ -31,8 +31,8 @@ By clicking <strong><a href="https://github.com/davellanedam/node-express-mongod
 
 <p class="has-line-data" data-line-start="21" data-line-end="22">REST/CRUD methods used:</p>
 <ul>
-<li class="has-line-data" data-line-start="22" data-line-end="23">GET</li>
-<li class="has-line-data" data-line-start="23" data-line-end="24">POST</li>
-<li class="has-line-data" data-line-start="24" data-line-end="25">PATCH</li>
-<li class="has-line-data" data-line-start="25" data-line-end="27">DELETE</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">POST (CREATE)</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24">GET (READ)</li>
+<li class="has-line-data" data-line-start="24" data-line-end="25">PATCH (UPDATE)</li>
+<li class="has-line-data" data-line-start="25" data-line-end="27">DELETE (DELETE)</li>
 </ul>
