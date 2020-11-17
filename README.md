@@ -27,10 +27,10 @@ using the <strong><a href="https://www.chaijs.com/">Chai Assertion Library</a></
 The <strong><a href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton">API</a></strong> tested: courtesy of <strong><a href="https://github.com/davellanedam">Daniel Avellaneda</a></strong>.</p> 
 
 <p class="has-line-data" data-line-start="21" data-line-end="22">You will find more info about the requirements needed for running this API on your machine by clicking <strong>[here]<a href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton">https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton</a>.</strong></p>
-<p class="has-line-data" data-line-start="23" data-line-end="24">REST methods used:</p>
+<p class="has-line-data" data-line-start="23" data-line-end="24">REST/CRUD methods used:</p>
 <ul>
-<li class="has-line-data" data-line-start="24" data-line-end="25">GET</li>
-<li class="has-line-data" data-line-start="25" data-line-end="26">POST</li>
-<li class="has-line-data" data-line-start="26" data-line-end="27">PATCH</li>
-<li class="has-line-data" data-line-start="27" data-line-end="29">DELETE</li>
+<li class="has-line-data" data-line-start="24" data-line-end="25">POST/CREATE</li>
+<li class="has-line-data" data-line-start="25" data-line-end="26">GET/READ</li>
+<li class="has-line-data" data-line-start="26" data-line-end="27">PATCH/UPDATE</li>
+<li class="has-line-data" data-line-start="27" data-line-end="29">DELETE/DELETE</li>
 </ul>
