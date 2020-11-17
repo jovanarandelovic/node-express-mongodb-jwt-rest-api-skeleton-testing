@@ -14,7 +14,7 @@
 <p class="has-line-data" data-line-start="15" data-line-end="20">
   
   <p align="center">
-  Tests were commited in <strong><a href="https://www.postman.com/">Postman</a></strong><br>
+  Tests were committed in <strong><a href="https://www.postman.com/">Postman</a></strong><br>
 <img src="https://assets.getpostman.com/common-share/postman-github-logo.png" alt=""><br>
   </p>
   <p align="center">
